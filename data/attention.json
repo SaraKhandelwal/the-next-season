@@ -1,0 +1,556 @@
+{
+  "asOf": "2026-11-19",
+  "through": "2026-08",
+  "description": "Monthly English Wikipedia article pageviews. Wikimedia user traffic, all access. These are not fashion trends, purchases, revenue, or demand forecasts.",
+  "series": {
+    "fever": {
+      "name": "Indiana Fever",
+      "article": "Indiana_Fever",
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Indiana_Fever/monthly/2023010100/2026080100",
+      "points": [
+        {
+          "month": "2023-01",
+          "views": 3422
+        },
+        {
+          "month": "2023-02",
+          "views": 4038
+        },
+        {
+          "month": "2023-03",
+          "views": 4212
+        },
+        {
+          "month": "2023-04",
+          "views": 10978
+        },
+        {
+          "month": "2023-05",
+          "views": 9696
+        },
+        {
+          "month": "2023-06",
+          "views": 8865
+        },
+        {
+          "month": "2023-07",
+          "views": 7362
+        },
+        {
+          "month": "2023-08",
+          "views": 5519
+        },
+        {
+          "month": "2023-09",
+          "views": 5379
+        },
+        {
+          "month": "2023-10",
+          "views": 5073
+        },
+        {
+          "month": "2023-11",
+          "views": 3095
+        },
+        {
+          "month": "2023-12",
+          "views": 4947
+        },
+        {
+          "month": "2024-01",
+          "views": 5249
+        },
+        {
+          "month": "2024-02",
+          "views": 10029
+        },
+        {
+          "month": "2024-03",
+          "views": 18664
+        },
+        {
+          "month": "2024-04",
+          "views": 146680
+        },
+        {
+          "month": "2024-05",
+          "views": 131206
+        },
+        {
+          "month": "2024-06",
+          "views": 113554
+        },
+        {
+          "month": "2024-07",
+          "views": 64580
+        },
+        {
+          "month": "2024-08",
+          "views": 56130
+        },
+        {
+          "month": "2024-09",
+          "views": 97965
+        },
+        {
+          "month": "2024-10",
+          "views": 33386
+        },
+        {
+          "month": "2024-11",
+          "views": 17703
+        },
+        {
+          "month": "2024-12",
+          "views": 14703
+        },
+        {
+          "month": "2025-01",
+          "views": 22057
+        },
+        {
+          "month": "2025-02",
+          "views": 28315
+        },
+        {
+          "month": "2025-03",
+          "views": 23139
+        },
+        {
+          "month": "2025-04",
+          "views": 26426
+        },
+        {
+          "month": "2025-05",
+          "views": 97720
+        },
+        {
+          "month": "2025-06",
+          "views": 102543
+        },
+        {
+          "month": "2025-07",
+          "views": 80448
+        },
+        {
+          "month": "2025-08",
+          "views": 49403
+        },
+        {
+          "month": "2025-09",
+          "views": 41640
+        },
+        {
+          "month": "2025-10",
+          "views": 18511
+        },
+        {
+          "month": "2025-11",
+          "views": 9900
+        },
+        {
+          "month": "2025-12",
+          "views": 11050
+        },
+        {
+          "month": "2026-01",
+          "views": 15124
+        },
+        {
+          "month": "2026-02",
+          "views": 9701
+        },
+        {
+          "month": "2026-03",
+          "views": 15151
+        },
+        {
+          "month": "2026-04",
+          "views": 29022
+        },
+        {
+          "month": "2026-05",
+          "views": 45224
+        },
+        {
+          "month": "2026-06",
+          "views": 60802
+        },
+        {
+          "month": "2026-07",
+          "views": 68937
+        },
+        {
+          "month": "2026-08",
+          "views": 82579
+        }
+      ]
+    },
+    "pacers": {
+      "name": "Indiana Pacers",
+      "article": "Indiana_Pacers",
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Indiana_Pacers/monthly/2023010100/2026080100",
+      "points": [
+        {
+          "month": "2023-01",
+          "views": 34814
+        },
+        {
+          "month": "2023-02",
+          "views": 37847
+        },
+        {
+          "month": "2023-03",
+          "views": 36615
+        },
+        {
+          "month": "2023-04",
+          "views": 34424
+        },
+        {
+          "month": "2023-05",
+          "views": 45316
+        },
+        {
+          "month": "2023-06",
+          "views": 43140
+        },
+        {
+          "month": "2023-07",
+          "views": 39103
+        },
+        {
+          "month": "2023-08",
+          "views": 31690
+        },
+        {
+          "month": "2023-09",
+          "views": 28516
+        },
+        {
+          "month": "2023-10",
+          "views": 32434
+        },
+        {
+          "month": "2023-11",
+          "views": 41169
+        },
+        {
+          "month": "2023-12",
+          "views": 56950
+        },
+        {
+          "month": "2024-01",
+          "views": 53645
+        },
+        {
+          "month": "2024-02",
+          "views": 48027
+        },
+        {
+          "month": "2024-03",
+          "views": 33889
+        },
+        {
+          "month": "2024-04",
+          "views": 53144
+        },
+        {
+          "month": "2024-05",
+          "views": 166593
+        },
+        {
+          "month": "2024-06",
+          "views": 33258
+        },
+        {
+          "month": "2024-07",
+          "views": 26399
+        },
+        {
+          "month": "2024-08",
+          "views": 21350
+        },
+        {
+          "month": "2024-09",
+          "views": 18767
+        },
+        {
+          "month": "2024-10",
+          "views": 29307
+        },
+        {
+          "month": "2024-11",
+          "views": 25907
+        },
+        {
+          "month": "2024-12",
+          "views": 26101
+        },
+        {
+          "month": "2025-01",
+          "views": 30352
+        },
+        {
+          "month": "2025-02",
+          "views": 35987
+        },
+        {
+          "month": "2025-03",
+          "views": 37383
+        },
+        {
+          "month": "2025-04",
+          "views": 48390
+        },
+        {
+          "month": "2025-05",
+          "views": 303980
+        },
+        {
+          "month": "2025-06",
+          "views": 458587
+        },
+        {
+          "month": "2025-07",
+          "views": 68332
+        },
+        {
+          "month": "2025-08",
+          "views": 21226
+        },
+        {
+          "month": "2025-09",
+          "views": 20228
+        },
+        {
+          "month": "2025-10",
+          "views": 32602
+        },
+        {
+          "month": "2025-11",
+          "views": 36103
+        },
+        {
+          "month": "2025-12",
+          "views": 28136
+        },
+        {
+          "month": "2026-01",
+          "views": 30404
+        },
+        {
+          "month": "2026-02",
+          "views": 31134
+        },
+        {
+          "month": "2026-03",
+          "views": 28875
+        },
+        {
+          "month": "2026-04",
+          "views": 29194
+        },
+        {
+          "month": "2026-05",
+          "views": 40279
+        },
+        {
+          "month": "2026-06",
+          "views": 44089
+        },
+        {
+          "month": "2026-07",
+          "views": 26648
+        },
+        {
+          "month": "2026-08",
+          "views": 20194
+        }
+      ]
+    },
+    "wnba": {
+      "name": "WNBA league",
+      "article": "Women's_National_Basketball_Association",
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Women%27s_National_Basketball_Association/monthly/2023010100/2026080100",
+      "points": [
+        {
+          "month": "2023-01",
+          "views": 29857
+        },
+        {
+          "month": "2023-02",
+          "views": 34788
+        },
+        {
+          "month": "2023-03",
+          "views": 33589
+        },
+        {
+          "month": "2023-04",
+          "views": 51151
+        },
+        {
+          "month": "2023-05",
+          "views": 64935
+        },
+        {
+          "month": "2023-06",
+          "views": 53829
+        },
+        {
+          "month": "2023-07",
+          "views": 46542
+        },
+        {
+          "month": "2023-08",
+          "views": 41357
+        },
+        {
+          "month": "2023-09",
+          "views": 44956
+        },
+        {
+          "month": "2023-10",
+          "views": 68947
+        },
+        {
+          "month": "2023-11",
+          "views": 24785
+        },
+        {
+          "month": "2023-12",
+          "views": 24580
+        },
+        {
+          "month": "2024-01",
+          "views": 32362
+        },
+        {
+          "month": "2024-02",
+          "views": 45913
+        },
+        {
+          "month": "2024-03",
+          "views": 46633
+        },
+        {
+          "month": "2024-04",
+          "views": 205036
+        },
+        {
+          "month": "2024-05",
+          "views": 168451
+        },
+        {
+          "month": "2024-06",
+          "views": 137755
+        },
+        {
+          "month": "2024-07",
+          "views": 78625
+        },
+        {
+          "month": "2024-08",
+          "views": 66597
+        },
+        {
+          "month": "2024-09",
+          "views": 107998
+        },
+        {
+          "month": "2024-10",
+          "views": 109606
+        },
+        {
+          "month": "2024-11",
+          "views": 34531
+        },
+        {
+          "month": "2024-12",
+          "views": 51970
+        },
+        {
+          "month": "2025-01",
+          "views": 47396
+        },
+        {
+          "month": "2025-02",
+          "views": 50392
+        },
+        {
+          "month": "2025-03",
+          "views": 53502
+        },
+        {
+          "month": "2025-04",
+          "views": 66578
+        },
+        {
+          "month": "2025-05",
+          "views": 123201
+        },
+        {
+          "month": "2025-06",
+          "views": 111431
+        },
+        {
+          "month": "2025-07",
+          "views": 133680
+        },
+        {
+          "month": "2025-08",
+          "views": 80077
+        },
+        {
+          "month": "2025-09",
+          "views": 103881
+        },
+        {
+          "month": "2025-10",
+          "views": 65978
+        },
+        {
+          "month": "2025-11",
+          "views": 32113
+        },
+        {
+          "month": "2025-12",
+          "views": 32915
+        },
+        {
+          "month": "2026-01",
+          "views": 36293
+        },
+        {
+          "month": "2026-02",
+          "views": 36714
+        },
+        {
+          "month": "2026-03",
+          "views": 56237
+        },
+        {
+          "month": "2026-04",
+          "views": 81296
+        },
+        {
+          "month": "2026-05",
+          "views": 96258
+        },
+        {
+          "month": "2026-06",
+          "views": 87211
+        },
+        {
+          "month": "2026-07",
+          "views": 92154
+        },
+        {
+          "month": "2026-08",
+          "views": 121293
+        }
+      ]
+    }
+  }
+}
